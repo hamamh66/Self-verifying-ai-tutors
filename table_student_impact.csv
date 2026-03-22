@@ -1,0 +1,5 @@
+variant,mean_final_mastery,std_final_mastery,mean_misinformation_events
+self_verifying_tutor,0.9963,0.0137,0.44
+rag_only_tutor,0.931,0.0849,1.8267
+baseline,0.8546,0.14,3.28
+naive_tutor,0.6628,0.2093,5.44

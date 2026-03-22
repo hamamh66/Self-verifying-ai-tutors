@@ -1,0 +1,961 @@
+item_id,citation_id,source_title,snippet,supports_answer
+Q0001,Q0001_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2?', the supported answer is '2x'.",2x
+Q0001,Q0001_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2?' should be checked carefully against authoritative instructional material.,2x
+Q0001,Q0001_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2?' is choosing 'x' incorrectly.,2x
+Q0002,Q0002_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0002,Q0002_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0002,Q0002_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0003,Q0003_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4)?', the supported answer is '14'.",14
+Q0003,Q0003_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4)?' should be checked carefully against authoritative instructional material.",14
+Q0003,Q0003_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4)?' is choosing '10' incorrectly.",14
+Q0004,Q0004_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2)?', the supported answer is '1'.",1
+Q0004,Q0004_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2)?' should be checked carefully against authoritative instructional material.,1
+Q0004,Q0004_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2)?' is choosing '0' incorrectly.,1
+Q0005,Q0005_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11?', the supported answer is '4'.",4
+Q0005,Q0005_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11?' should be checked carefully against authoritative instructional material.,4
+Q0005,Q0005_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11?' is choosing '2' incorrectly.,4
+Q0006,Q0006_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 2)?', the supported answer is '2x'.",2x
+Q0006,Q0006_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 2)?' should be checked carefully against authoritative instructional material.,2x
+Q0006,Q0006_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 2)?' is choosing 'x' incorrectly.,2x
+Q0007,Q0007_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 2)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0007,Q0007_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 2)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0007,Q0007_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 2)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0008,Q0008_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 2)?', the supported answer is '14'.",14
+Q0008,Q0008_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 2)?' should be checked carefully against authoritative instructional material.",14
+Q0008,Q0008_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 2)?' is choosing '10' incorrectly.",14
+Q0009,Q0009_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 2)?', the supported answer is '1'.",1
+Q0009,Q0009_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 2)?' should be checked carefully against authoritative instructional material.,1
+Q0009,Q0009_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 2)?' is choosing '0' incorrectly.,1
+Q0010,Q0010_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 2)?', the supported answer is '4'.",4
+Q0010,Q0010_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 2)?' should be checked carefully against authoritative instructional material.,4
+Q0010,Q0010_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 2)?' is choosing '2' incorrectly.,4
+Q0011,Q0011_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 3)?', the supported answer is '2x'.",2x
+Q0011,Q0011_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 3)?' should be checked carefully against authoritative instructional material.,2x
+Q0011,Q0011_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 3)?' is choosing 'x' incorrectly.,2x
+Q0012,Q0012_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 3)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0012,Q0012_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 3)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0012,Q0012_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 3)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0013,Q0013_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 3)?', the supported answer is '14'.",14
+Q0013,Q0013_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 3)?' should be checked carefully against authoritative instructional material.",14
+Q0013,Q0013_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 3)?' is choosing '10' incorrectly.",14
+Q0014,Q0014_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 3)?', the supported answer is '1'.",1
+Q0014,Q0014_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 3)?' should be checked carefully against authoritative instructional material.,1
+Q0014,Q0014_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 3)?' is choosing '0' incorrectly.,1
+Q0015,Q0015_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 3)?', the supported answer is '4'.",4
+Q0015,Q0015_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 3)?' should be checked carefully against authoritative instructional material.,4
+Q0015,Q0015_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 3)?' is choosing '2' incorrectly.,4
+Q0016,Q0016_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 4)?', the supported answer is '2x'.",2x
+Q0016,Q0016_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 4)?' should be checked carefully against authoritative instructional material.,2x
+Q0016,Q0016_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 4)?' is choosing 'x' incorrectly.,2x
+Q0017,Q0017_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 4)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0017,Q0017_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 4)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0017,Q0017_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 4)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0018,Q0018_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 4)?', the supported answer is '14'.",14
+Q0018,Q0018_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 4)?' should be checked carefully against authoritative instructional material.",14
+Q0018,Q0018_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 4)?' is choosing '10' incorrectly.",14
+Q0019,Q0019_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 4)?', the supported answer is '1'.",1
+Q0019,Q0019_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 4)?' should be checked carefully against authoritative instructional material.,1
+Q0019,Q0019_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 4)?' is choosing '0' incorrectly.,1
+Q0020,Q0020_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 4)?', the supported answer is '4'.",4
+Q0020,Q0020_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 4)?' should be checked carefully against authoritative instructional material.,4
+Q0020,Q0020_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 4)?' is choosing '2' incorrectly.,4
+Q0021,Q0021_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 5)?', the supported answer is '2x'.",2x
+Q0021,Q0021_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 5)?' should be checked carefully against authoritative instructional material.,2x
+Q0021,Q0021_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 5)?' is choosing 'x' incorrectly.,2x
+Q0022,Q0022_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 5)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0022,Q0022_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 5)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0022,Q0022_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 5)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0023,Q0023_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 5)?', the supported answer is '14'.",14
+Q0023,Q0023_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 5)?' should be checked carefully against authoritative instructional material.",14
+Q0023,Q0023_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 5)?' is choosing '10' incorrectly.",14
+Q0024,Q0024_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 5)?', the supported answer is '1'.",1
+Q0024,Q0024_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 5)?' should be checked carefully against authoritative instructional material.,1
+Q0024,Q0024_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 5)?' is choosing '0' incorrectly.,1
+Q0025,Q0025_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 5)?', the supported answer is '4'.",4
+Q0025,Q0025_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 5)?' should be checked carefully against authoritative instructional material.,4
+Q0025,Q0025_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 5)?' is choosing '2' incorrectly.,4
+Q0026,Q0026_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 6)?', the supported answer is '2x'.",2x
+Q0026,Q0026_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 6)?' should be checked carefully against authoritative instructional material.,2x
+Q0026,Q0026_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 6)?' is choosing 'x' incorrectly.,2x
+Q0027,Q0027_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 6)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0027,Q0027_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 6)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0027,Q0027_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 6)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0028,Q0028_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 6)?', the supported answer is '14'.",14
+Q0028,Q0028_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 6)?' should be checked carefully against authoritative instructional material.",14
+Q0028,Q0028_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 6)?' is choosing '10' incorrectly.",14
+Q0029,Q0029_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 6)?', the supported answer is '1'.",1
+Q0029,Q0029_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 6)?' should be checked carefully against authoritative instructional material.,1
+Q0029,Q0029_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 6)?' is choosing '0' incorrectly.,1
+Q0030,Q0030_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 6)?', the supported answer is '4'.",4
+Q0030,Q0030_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 6)?' should be checked carefully against authoritative instructional material.,4
+Q0030,Q0030_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 6)?' is choosing '2' incorrectly.,4
+Q0031,Q0031_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 7)?', the supported answer is '2x'.",2x
+Q0031,Q0031_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 7)?' should be checked carefully against authoritative instructional material.,2x
+Q0031,Q0031_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 7)?' is choosing 'x' incorrectly.,2x
+Q0032,Q0032_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 7)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0032,Q0032_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 7)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0032,Q0032_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 7)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0033,Q0033_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 7)?', the supported answer is '14'.",14
+Q0033,Q0033_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 7)?' should be checked carefully against authoritative instructional material.",14
+Q0033,Q0033_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 7)?' is choosing '10' incorrectly.",14
+Q0034,Q0034_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 7)?', the supported answer is '1'.",1
+Q0034,Q0034_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 7)?' should be checked carefully against authoritative instructional material.,1
+Q0034,Q0034_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 7)?' is choosing '0' incorrectly.,1
+Q0035,Q0035_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 7)?', the supported answer is '4'.",4
+Q0035,Q0035_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 7)?' should be checked carefully against authoritative instructional material.,4
+Q0035,Q0035_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 7)?' is choosing '2' incorrectly.,4
+Q0036,Q0036_E1,Mathematics Essentials,"For the question 'What is the derivative of x^2 (variant 8)?', the supported answer is '2x'.",2x
+Q0036,Q0036_E2,Mathematics Reference Notes,The key concept related to 'What is the derivative of x^2 (variant 8)?' should be checked carefully against authoritative instructional material.,2x
+Q0036,Q0036_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the derivative of x^2 (variant 8)?' is choosing 'x' incorrectly.,2x
+Q0037,Q0037_E1,Mathematics Essentials,"For the question 'What is the integral of 1/x (variant 8)?', the supported answer is 'ln|x| + C'.",ln|x| + C
+Q0037,Q0037_E2,Mathematics Reference Notes,The key concept related to 'What is the integral of 1/x (variant 8)?' should be checked carefully against authoritative instructional material.,ln|x| + C
+Q0037,Q0037_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the integral of 1/x (variant 8)?' is choosing 'x + C' incorrectly.,ln|x| + C
+Q0038,Q0038_E1,Mathematics Essentials,"For the question 'If f(x)=3x+2, what is f(4) (variant 8)?', the supported answer is '14'.",14
+Q0038,Q0038_E2,Mathematics Reference Notes,"The key concept related to 'If f(x)=3x+2, what is f(4) (variant 8)?' should be checked carefully against authoritative instructional material.",14
+Q0038,Q0038_E3,Mathematics Misconception Watchlist,"A common misconception for 'If f(x)=3x+2, what is f(4) (variant 8)?' is choosing '10' incorrectly.",14
+Q0039,Q0039_E1,Mathematics Essentials,"For the question 'What is the value of sin(pi/2) (variant 8)?', the supported answer is '1'.",1
+Q0039,Q0039_E2,Mathematics Reference Notes,The key concept related to 'What is the value of sin(pi/2) (variant 8)?' should be checked carefully against authoritative instructional material.,1
+Q0039,Q0039_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the value of sin(pi/2) (variant 8)?' is choosing '0' incorrectly.,1
+Q0040,Q0040_E1,Mathematics Essentials,"For the question 'What is the solution to 2x+3=11 (variant 8)?', the supported answer is '4'.",4
+Q0040,Q0040_E2,Mathematics Reference Notes,The key concept related to 'What is the solution to 2x+3=11 (variant 8)?' should be checked carefully against authoritative instructional material.,4
+Q0040,Q0040_E3,Mathematics Misconception Watchlist,A common misconception for 'What is the solution to 2x+3=11 (variant 8)?' is choosing '2' incorrectly.,4
+Q0041,Q0041_E1,Physics Essentials,"For the question 'What is the SI unit of force?', the supported answer is 'Newton'.",Newton
+Q0041,Q0041_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force?' should be checked carefully against authoritative instructional material.,Newton
+Q0041,Q0041_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force?' is choosing 'Joule' incorrectly.,Newton
+Q0042,Q0042_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0042,Q0042_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0042,Q0042_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0043,Q0043_E1,Physics Essentials,"For the question 'Ohm's law is expressed as?', the supported answer is 'V=IR'.",V=IR
+Q0043,Q0043_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as?' should be checked carefully against authoritative instructional material.,V=IR
+Q0043,Q0043_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as?' is choosing 'P=IV' incorrectly.,V=IR
+Q0044,Q0044_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0044,Q0044_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0044,Q0044_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0045,Q0045_E1,Physics Essentials,"For the question 'Unit of electric current?', the supported answer is 'Ampere'.",Ampere
+Q0045,Q0045_E2,Physics Reference Notes,The key concept related to 'Unit of electric current?' should be checked carefully against authoritative instructional material.,Ampere
+Q0045,Q0045_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current?' is choosing 'Volt' incorrectly.,Ampere
+Q0046,Q0046_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 2)?', the supported answer is 'Newton'.",Newton
+Q0046,Q0046_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 2)?' should be checked carefully against authoritative instructional material.,Newton
+Q0046,Q0046_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 2)?' is choosing 'Joule' incorrectly.,Newton
+Q0047,Q0047_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 2)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0047,Q0047_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 2)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0047,Q0047_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 2)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0048,Q0048_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 2)?', the supported answer is 'V=IR'.",V=IR
+Q0048,Q0048_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 2)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0048,Q0048_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 2)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0049,Q0049_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 2)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0049,Q0049_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 2)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0049,Q0049_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 2)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0050,Q0050_E1,Physics Essentials,"For the question 'Unit of electric current (variant 2)?', the supported answer is 'Ampere'.",Ampere
+Q0050,Q0050_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 2)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0050,Q0050_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 2)?' is choosing 'Volt' incorrectly.,Ampere
+Q0051,Q0051_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 3)?', the supported answer is 'Newton'.",Newton
+Q0051,Q0051_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 3)?' should be checked carefully against authoritative instructional material.,Newton
+Q0051,Q0051_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 3)?' is choosing 'Joule' incorrectly.,Newton
+Q0052,Q0052_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 3)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0052,Q0052_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 3)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0052,Q0052_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 3)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0053,Q0053_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 3)?', the supported answer is 'V=IR'.",V=IR
+Q0053,Q0053_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 3)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0053,Q0053_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 3)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0054,Q0054_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 3)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0054,Q0054_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 3)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0054,Q0054_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 3)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0055,Q0055_E1,Physics Essentials,"For the question 'Unit of electric current (variant 3)?', the supported answer is 'Ampere'.",Ampere
+Q0055,Q0055_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 3)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0055,Q0055_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 3)?' is choosing 'Volt' incorrectly.,Ampere
+Q0056,Q0056_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 4)?', the supported answer is 'Newton'.",Newton
+Q0056,Q0056_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 4)?' should be checked carefully against authoritative instructional material.,Newton
+Q0056,Q0056_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 4)?' is choosing 'Joule' incorrectly.,Newton
+Q0057,Q0057_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 4)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0057,Q0057_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 4)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0057,Q0057_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 4)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0058,Q0058_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 4)?', the supported answer is 'V=IR'.",V=IR
+Q0058,Q0058_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 4)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0058,Q0058_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 4)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0059,Q0059_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 4)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0059,Q0059_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 4)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0059,Q0059_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 4)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0060,Q0060_E1,Physics Essentials,"For the question 'Unit of electric current (variant 4)?', the supported answer is 'Ampere'.",Ampere
+Q0060,Q0060_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 4)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0060,Q0060_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 4)?' is choosing 'Volt' incorrectly.,Ampere
+Q0061,Q0061_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 5)?', the supported answer is 'Newton'.",Newton
+Q0061,Q0061_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 5)?' should be checked carefully against authoritative instructional material.,Newton
+Q0061,Q0061_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 5)?' is choosing 'Joule' incorrectly.,Newton
+Q0062,Q0062_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 5)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0062,Q0062_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 5)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0062,Q0062_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 5)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0063,Q0063_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 5)?', the supported answer is 'V=IR'.",V=IR
+Q0063,Q0063_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 5)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0063,Q0063_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 5)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0064,Q0064_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 5)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0064,Q0064_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 5)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0064,Q0064_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 5)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0065,Q0065_E1,Physics Essentials,"For the question 'Unit of electric current (variant 5)?', the supported answer is 'Ampere'.",Ampere
+Q0065,Q0065_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 5)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0065,Q0065_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 5)?' is choosing 'Volt' incorrectly.,Ampere
+Q0066,Q0066_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 6)?', the supported answer is 'Newton'.",Newton
+Q0066,Q0066_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 6)?' should be checked carefully against authoritative instructional material.,Newton
+Q0066,Q0066_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 6)?' is choosing 'Joule' incorrectly.,Newton
+Q0067,Q0067_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 6)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0067,Q0067_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 6)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0067,Q0067_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 6)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0068,Q0068_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 6)?', the supported answer is 'V=IR'.",V=IR
+Q0068,Q0068_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 6)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0068,Q0068_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 6)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0069,Q0069_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 6)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0069,Q0069_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 6)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0069,Q0069_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 6)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0070,Q0070_E1,Physics Essentials,"For the question 'Unit of electric current (variant 6)?', the supported answer is 'Ampere'.",Ampere
+Q0070,Q0070_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 6)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0070,Q0070_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 6)?' is choosing 'Volt' incorrectly.,Ampere
+Q0071,Q0071_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 7)?', the supported answer is 'Newton'.",Newton
+Q0071,Q0071_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 7)?' should be checked carefully against authoritative instructional material.,Newton
+Q0071,Q0071_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 7)?' is choosing 'Joule' incorrectly.,Newton
+Q0072,Q0072_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 7)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0072,Q0072_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 7)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0072,Q0072_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 7)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0073,Q0073_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 7)?', the supported answer is 'V=IR'.",V=IR
+Q0073,Q0073_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 7)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0073,Q0073_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 7)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0074,Q0074_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 7)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0074,Q0074_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 7)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0074,Q0074_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 7)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0075,Q0075_E1,Physics Essentials,"For the question 'Unit of electric current (variant 7)?', the supported answer is 'Ampere'.",Ampere
+Q0075,Q0075_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 7)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0075,Q0075_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 7)?' is choosing 'Volt' incorrectly.,Ampere
+Q0076,Q0076_E1,Physics Essentials,"For the question 'What is the SI unit of force (variant 8)?', the supported answer is 'Newton'.",Newton
+Q0076,Q0076_E2,Physics Reference Notes,The key concept related to 'What is the SI unit of force (variant 8)?' should be checked carefully against authoritative instructional material.,Newton
+Q0076,Q0076_E3,Physics Misconception Watchlist,A common misconception for 'What is the SI unit of force (variant 8)?' is choosing 'Joule' incorrectly.,Newton
+Q0077,Q0077_E1,Physics Essentials,"For the question 'What is the speed of light in vacuum (variant 8)?', the supported answer is '3×10^8 m/s'.",3×10^8 m/s
+Q0077,Q0077_E2,Physics Reference Notes,The key concept related to 'What is the speed of light in vacuum (variant 8)?' should be checked carefully against authoritative instructional material.,3×10^8 m/s
+Q0077,Q0077_E3,Physics Misconception Watchlist,A common misconception for 'What is the speed of light in vacuum (variant 8)?' is choosing '3×10^6 m/s' incorrectly.,3×10^8 m/s
+Q0078,Q0078_E1,Physics Essentials,"For the question 'Ohm's law is expressed as (variant 8)?', the supported answer is 'V=IR'.",V=IR
+Q0078,Q0078_E2,Physics Reference Notes,The key concept related to 'Ohm's law is expressed as (variant 8)?' should be checked carefully against authoritative instructional material.,V=IR
+Q0078,Q0078_E3,Physics Misconception Watchlist,A common misconception for 'Ohm's law is expressed as (variant 8)?' is choosing 'P=IV' incorrectly.,V=IR
+Q0079,Q0079_E1,Physics Essentials,"For the question 'Which quantity is conserved in an isolated system (variant 8)?', the supported answer is 'Mass-energy'.",Mass-energy
+Q0079,Q0079_E2,Physics Reference Notes,The key concept related to 'Which quantity is conserved in an isolated system (variant 8)?' should be checked carefully against authoritative instructional material.,Mass-energy
+Q0079,Q0079_E3,Physics Misconception Watchlist,A common misconception for 'Which quantity is conserved in an isolated system (variant 8)?' is choosing 'Voltage' incorrectly.,Mass-energy
+Q0080,Q0080_E1,Physics Essentials,"For the question 'Unit of electric current (variant 8)?', the supported answer is 'Ampere'.",Ampere
+Q0080,Q0080_E2,Physics Reference Notes,The key concept related to 'Unit of electric current (variant 8)?' should be checked carefully against authoritative instructional material.,Ampere
+Q0080,Q0080_E3,Physics Misconception Watchlist,A common misconception for 'Unit of electric current (variant 8)?' is choosing 'Volt' incorrectly.,Ampere
+Q0081,Q0081_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen?', the supported answer is '8'.",8
+Q0081,Q0081_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen?' should be checked carefully against authoritative instructional material.,8
+Q0081,Q0081_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen?' is choosing '6' incorrectly.,8
+Q0082,Q0082_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates?', the supported answer is 'Acid'.",Acid
+Q0082,Q0082_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates?' should be checked carefully against authoritative instructional material.,Acid
+Q0082,Q0082_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates?' is choosing 'Base' incorrectly.,Acid
+Q0083,Q0083_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium?', the supported answer is 'Na'.",Na
+Q0083,Q0083_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium?' should be checked carefully against authoritative instructional material.,Na
+Q0083,Q0083_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium?' is choosing 'So' incorrectly.,Na
+Q0084,Q0084_E1,Chemistry Essentials,"For the question 'Water is composed of which elements?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0084,Q0084_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0084,Q0084_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0085,Q0085_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0085,Q0085_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0085,Q0085_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0086,Q0086_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 2)?', the supported answer is '8'.",8
+Q0086,Q0086_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 2)?' should be checked carefully against authoritative instructional material.,8
+Q0086,Q0086_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 2)?' is choosing '6' incorrectly.,8
+Q0087,Q0087_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 2)?', the supported answer is 'Acid'.",Acid
+Q0087,Q0087_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 2)?' should be checked carefully against authoritative instructional material.,Acid
+Q0087,Q0087_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 2)?' is choosing 'Base' incorrectly.,Acid
+Q0088,Q0088_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 2)?', the supported answer is 'Na'.",Na
+Q0088,Q0088_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 2)?' should be checked carefully against authoritative instructional material.,Na
+Q0088,Q0088_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 2)?' is choosing 'So' incorrectly.,Na
+Q0089,Q0089_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 2)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0089,Q0089_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 2)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0089,Q0089_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 2)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0090,Q0090_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 2)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0090,Q0090_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 2)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0090,Q0090_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 2)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0091,Q0091_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 3)?', the supported answer is '8'.",8
+Q0091,Q0091_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 3)?' should be checked carefully against authoritative instructional material.,8
+Q0091,Q0091_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 3)?' is choosing '6' incorrectly.,8
+Q0092,Q0092_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 3)?', the supported answer is 'Acid'.",Acid
+Q0092,Q0092_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 3)?' should be checked carefully against authoritative instructional material.,Acid
+Q0092,Q0092_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 3)?' is choosing 'Base' incorrectly.,Acid
+Q0093,Q0093_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 3)?', the supported answer is 'Na'.",Na
+Q0093,Q0093_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 3)?' should be checked carefully against authoritative instructional material.,Na
+Q0093,Q0093_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 3)?' is choosing 'So' incorrectly.,Na
+Q0094,Q0094_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 3)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0094,Q0094_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 3)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0094,Q0094_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 3)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0095,Q0095_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 3)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0095,Q0095_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 3)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0095,Q0095_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 3)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0096,Q0096_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 4)?', the supported answer is '8'.",8
+Q0096,Q0096_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 4)?' should be checked carefully against authoritative instructional material.,8
+Q0096,Q0096_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 4)?' is choosing '6' incorrectly.,8
+Q0097,Q0097_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 4)?', the supported answer is 'Acid'.",Acid
+Q0097,Q0097_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 4)?' should be checked carefully against authoritative instructional material.,Acid
+Q0097,Q0097_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 4)?' is choosing 'Base' incorrectly.,Acid
+Q0098,Q0098_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 4)?', the supported answer is 'Na'.",Na
+Q0098,Q0098_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 4)?' should be checked carefully against authoritative instructional material.,Na
+Q0098,Q0098_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 4)?' is choosing 'So' incorrectly.,Na
+Q0099,Q0099_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 4)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0099,Q0099_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 4)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0099,Q0099_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 4)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0100,Q0100_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 4)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0100,Q0100_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 4)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0100,Q0100_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 4)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0101,Q0101_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 5)?', the supported answer is '8'.",8
+Q0101,Q0101_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 5)?' should be checked carefully against authoritative instructional material.,8
+Q0101,Q0101_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 5)?' is choosing '6' incorrectly.,8
+Q0102,Q0102_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 5)?', the supported answer is 'Acid'.",Acid
+Q0102,Q0102_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 5)?' should be checked carefully against authoritative instructional material.,Acid
+Q0102,Q0102_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 5)?' is choosing 'Base' incorrectly.,Acid
+Q0103,Q0103_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 5)?', the supported answer is 'Na'.",Na
+Q0103,Q0103_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 5)?' should be checked carefully against authoritative instructional material.,Na
+Q0103,Q0103_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 5)?' is choosing 'So' incorrectly.,Na
+Q0104,Q0104_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 5)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0104,Q0104_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 5)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0104,Q0104_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 5)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0105,Q0105_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 5)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0105,Q0105_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 5)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0105,Q0105_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 5)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0106,Q0106_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 6)?', the supported answer is '8'.",8
+Q0106,Q0106_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 6)?' should be checked carefully against authoritative instructional material.,8
+Q0106,Q0106_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 6)?' is choosing '6' incorrectly.,8
+Q0107,Q0107_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 6)?', the supported answer is 'Acid'.",Acid
+Q0107,Q0107_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 6)?' should be checked carefully against authoritative instructional material.,Acid
+Q0107,Q0107_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 6)?' is choosing 'Base' incorrectly.,Acid
+Q0108,Q0108_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 6)?', the supported answer is 'Na'.",Na
+Q0108,Q0108_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 6)?' should be checked carefully against authoritative instructional material.,Na
+Q0108,Q0108_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 6)?' is choosing 'So' incorrectly.,Na
+Q0109,Q0109_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 6)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0109,Q0109_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 6)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0109,Q0109_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 6)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0110,Q0110_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 6)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0110,Q0110_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 6)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0110,Q0110_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 6)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0111,Q0111_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 7)?', the supported answer is '8'.",8
+Q0111,Q0111_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 7)?' should be checked carefully against authoritative instructional material.,8
+Q0111,Q0111_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 7)?' is choosing '6' incorrectly.,8
+Q0112,Q0112_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 7)?', the supported answer is 'Acid'.",Acid
+Q0112,Q0112_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 7)?' should be checked carefully against authoritative instructional material.,Acid
+Q0112,Q0112_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 7)?' is choosing 'Base' incorrectly.,Acid
+Q0113,Q0113_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 7)?', the supported answer is 'Na'.",Na
+Q0113,Q0113_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 7)?' should be checked carefully against authoritative instructional material.,Na
+Q0113,Q0113_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 7)?' is choosing 'So' incorrectly.,Na
+Q0114,Q0114_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 7)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0114,Q0114_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 7)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0114,Q0114_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 7)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0115,Q0115_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 7)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0115,Q0115_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 7)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0115,Q0115_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 7)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0116,Q0116_E1,Chemistry Essentials,"For the question 'Atomic number of oxygen (variant 8)?', the supported answer is '8'.",8
+Q0116,Q0116_E2,Chemistry Reference Notes,The key concept related to 'Atomic number of oxygen (variant 8)?' should be checked carefully against authoritative instructional material.,8
+Q0116,Q0116_E3,Chemistry Misconception Watchlist,A common misconception for 'Atomic number of oxygen (variant 8)?' is choosing '6' incorrectly.,8
+Q0117,Q0117_E1,Chemistry Essentials,"For the question 'pH less than 7 indicates (variant 8)?', the supported answer is 'Acid'.",Acid
+Q0117,Q0117_E2,Chemistry Reference Notes,The key concept related to 'pH less than 7 indicates (variant 8)?' should be checked carefully against authoritative instructional material.,Acid
+Q0117,Q0117_E3,Chemistry Misconception Watchlist,A common misconception for 'pH less than 7 indicates (variant 8)?' is choosing 'Base' incorrectly.,Acid
+Q0118,Q0118_E1,Chemistry Essentials,"For the question 'Chemical symbol for sodium (variant 8)?', the supported answer is 'Na'.",Na
+Q0118,Q0118_E2,Chemistry Reference Notes,The key concept related to 'Chemical symbol for sodium (variant 8)?' should be checked carefully against authoritative instructional material.,Na
+Q0118,Q0118_E3,Chemistry Misconception Watchlist,A common misconception for 'Chemical symbol for sodium (variant 8)?' is choosing 'So' incorrectly.,Na
+Q0119,Q0119_E1,Chemistry Essentials,"For the question 'Water is composed of which elements (variant 8)?', the supported answer is 'Hydrogen and oxygen'.",Hydrogen and oxygen
+Q0119,Q0119_E2,Chemistry Reference Notes,The key concept related to 'Water is composed of which elements (variant 8)?' should be checked carefully against authoritative instructional material.,Hydrogen and oxygen
+Q0119,Q0119_E3,Chemistry Misconception Watchlist,A common misconception for 'Water is composed of which elements (variant 8)?' is choosing 'Hydrogen and nitrogen' incorrectly.,Hydrogen and oxygen
+Q0120,Q0120_E1,Chemistry Essentials,"For the question 'Avogadro's number is approximately (variant 8)?', the supported answer is '6.02×10^23'.",6.02×10^23
+Q0120,Q0120_E2,Chemistry Reference Notes,The key concept related to 'Avogadro's number is approximately (variant 8)?' should be checked carefully against authoritative instructional material.,6.02×10^23
+Q0120,Q0120_E3,Chemistry Misconception Watchlist,A common misconception for 'Avogadro's number is approximately (variant 8)?' is choosing '3×10^8' incorrectly.,6.02×10^23
+Q0121,Q0121_E1,Biology Essentials,"For the question 'DNA stands for?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0121,Q0121_E2,Biology Reference Notes,The key concept related to 'DNA stands for?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0121,Q0121_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0122,Q0122_E1,Biology Essentials,"For the question 'Basic unit of life?', the supported answer is 'Cell'.",Cell
+Q0122,Q0122_E2,Biology Reference Notes,The key concept related to 'Basic unit of life?' should be checked carefully against authoritative instructional material.,Cell
+Q0122,Q0122_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life?' is choosing 'Atom' incorrectly.,Cell
+Q0123,Q0123_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0123,Q0123_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0123,Q0123_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0124,Q0124_E1,Biology Essentials,"For the question 'Which molecule carries genetic information?', the supported answer is 'DNA'.",DNA
+Q0124,Q0124_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information?' should be checked carefully against authoritative instructional material.,DNA
+Q0124,Q0124_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information?' is choosing 'Protein' incorrectly.,DNA
+Q0125,Q0125_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes?', the supported answer is '46'.",46
+Q0125,Q0125_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes?' should be checked carefully against authoritative instructional material.,46
+Q0125,Q0125_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes?' is choosing '23' incorrectly.,46
+Q0126,Q0126_E1,Biology Essentials,"For the question 'DNA stands for (variant 2)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0126,Q0126_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 2)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0126,Q0126_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 2)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0127,Q0127_E1,Biology Essentials,"For the question 'Basic unit of life (variant 2)?', the supported answer is 'Cell'.",Cell
+Q0127,Q0127_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 2)?' should be checked carefully against authoritative instructional material.,Cell
+Q0127,Q0127_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 2)?' is choosing 'Atom' incorrectly.,Cell
+Q0128,Q0128_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 2)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0128,Q0128_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 2)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0128,Q0128_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 2)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0129,Q0129_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 2)?', the supported answer is 'DNA'.",DNA
+Q0129,Q0129_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 2)?' should be checked carefully against authoritative instructional material.,DNA
+Q0129,Q0129_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 2)?' is choosing 'Protein' incorrectly.,DNA
+Q0130,Q0130_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 2)?', the supported answer is '46'.",46
+Q0130,Q0130_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 2)?' should be checked carefully against authoritative instructional material.,46
+Q0130,Q0130_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 2)?' is choosing '23' incorrectly.,46
+Q0131,Q0131_E1,Biology Essentials,"For the question 'DNA stands for (variant 3)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0131,Q0131_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 3)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0131,Q0131_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 3)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0132,Q0132_E1,Biology Essentials,"For the question 'Basic unit of life (variant 3)?', the supported answer is 'Cell'.",Cell
+Q0132,Q0132_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 3)?' should be checked carefully against authoritative instructional material.,Cell
+Q0132,Q0132_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 3)?' is choosing 'Atom' incorrectly.,Cell
+Q0133,Q0133_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 3)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0133,Q0133_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 3)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0133,Q0133_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 3)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0134,Q0134_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 3)?', the supported answer is 'DNA'.",DNA
+Q0134,Q0134_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 3)?' should be checked carefully against authoritative instructional material.,DNA
+Q0134,Q0134_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 3)?' is choosing 'Protein' incorrectly.,DNA
+Q0135,Q0135_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 3)?', the supported answer is '46'.",46
+Q0135,Q0135_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 3)?' should be checked carefully against authoritative instructional material.,46
+Q0135,Q0135_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 3)?' is choosing '23' incorrectly.,46
+Q0136,Q0136_E1,Biology Essentials,"For the question 'DNA stands for (variant 4)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0136,Q0136_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 4)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0136,Q0136_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 4)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0137,Q0137_E1,Biology Essentials,"For the question 'Basic unit of life (variant 4)?', the supported answer is 'Cell'.",Cell
+Q0137,Q0137_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 4)?' should be checked carefully against authoritative instructional material.,Cell
+Q0137,Q0137_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 4)?' is choosing 'Atom' incorrectly.,Cell
+Q0138,Q0138_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 4)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0138,Q0138_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 4)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0138,Q0138_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 4)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0139,Q0139_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 4)?', the supported answer is 'DNA'.",DNA
+Q0139,Q0139_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 4)?' should be checked carefully against authoritative instructional material.,DNA
+Q0139,Q0139_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 4)?' is choosing 'Protein' incorrectly.,DNA
+Q0140,Q0140_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 4)?', the supported answer is '46'.",46
+Q0140,Q0140_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 4)?' should be checked carefully against authoritative instructional material.,46
+Q0140,Q0140_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 4)?' is choosing '23' incorrectly.,46
+Q0141,Q0141_E1,Biology Essentials,"For the question 'DNA stands for (variant 5)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0141,Q0141_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 5)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0141,Q0141_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 5)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0142,Q0142_E1,Biology Essentials,"For the question 'Basic unit of life (variant 5)?', the supported answer is 'Cell'.",Cell
+Q0142,Q0142_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 5)?' should be checked carefully against authoritative instructional material.,Cell
+Q0142,Q0142_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 5)?' is choosing 'Atom' incorrectly.,Cell
+Q0143,Q0143_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 5)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0143,Q0143_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 5)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0143,Q0143_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 5)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0144,Q0144_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 5)?', the supported answer is 'DNA'.",DNA
+Q0144,Q0144_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 5)?' should be checked carefully against authoritative instructional material.,DNA
+Q0144,Q0144_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 5)?' is choosing 'Protein' incorrectly.,DNA
+Q0145,Q0145_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 5)?', the supported answer is '46'.",46
+Q0145,Q0145_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 5)?' should be checked carefully against authoritative instructional material.,46
+Q0145,Q0145_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 5)?' is choosing '23' incorrectly.,46
+Q0146,Q0146_E1,Biology Essentials,"For the question 'DNA stands for (variant 6)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0146,Q0146_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 6)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0146,Q0146_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 6)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0147,Q0147_E1,Biology Essentials,"For the question 'Basic unit of life (variant 6)?', the supported answer is 'Cell'.",Cell
+Q0147,Q0147_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 6)?' should be checked carefully against authoritative instructional material.,Cell
+Q0147,Q0147_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 6)?' is choosing 'Atom' incorrectly.,Cell
+Q0148,Q0148_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 6)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0148,Q0148_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 6)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0148,Q0148_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 6)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0149,Q0149_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 6)?', the supported answer is 'DNA'.",DNA
+Q0149,Q0149_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 6)?' should be checked carefully against authoritative instructional material.,DNA
+Q0149,Q0149_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 6)?' is choosing 'Protein' incorrectly.,DNA
+Q0150,Q0150_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 6)?', the supported answer is '46'.",46
+Q0150,Q0150_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 6)?' should be checked carefully against authoritative instructional material.,46
+Q0150,Q0150_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 6)?' is choosing '23' incorrectly.,46
+Q0151,Q0151_E1,Biology Essentials,"For the question 'DNA stands for (variant 7)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0151,Q0151_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 7)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0151,Q0151_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 7)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0152,Q0152_E1,Biology Essentials,"For the question 'Basic unit of life (variant 7)?', the supported answer is 'Cell'.",Cell
+Q0152,Q0152_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 7)?' should be checked carefully against authoritative instructional material.,Cell
+Q0152,Q0152_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 7)?' is choosing 'Atom' incorrectly.,Cell
+Q0153,Q0153_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 7)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0153,Q0153_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 7)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0153,Q0153_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 7)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0154,Q0154_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 7)?', the supported answer is 'DNA'.",DNA
+Q0154,Q0154_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 7)?' should be checked carefully against authoritative instructional material.,DNA
+Q0154,Q0154_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 7)?' is choosing 'Protein' incorrectly.,DNA
+Q0155,Q0155_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 7)?', the supported answer is '46'.",46
+Q0155,Q0155_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 7)?' should be checked carefully against authoritative instructional material.,46
+Q0155,Q0155_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 7)?' is choosing '23' incorrectly.,46
+Q0156,Q0156_E1,Biology Essentials,"For the question 'DNA stands for (variant 8)?', the supported answer is 'Deoxyribonucleic acid'.",Deoxyribonucleic acid
+Q0156,Q0156_E2,Biology Reference Notes,The key concept related to 'DNA stands for (variant 8)?' should be checked carefully against authoritative instructional material.,Deoxyribonucleic acid
+Q0156,Q0156_E3,Biology Misconception Watchlist,A common misconception for 'DNA stands for (variant 8)?' is choosing 'Dynamic nucleic acid' incorrectly.,Deoxyribonucleic acid
+Q0157,Q0157_E1,Biology Essentials,"For the question 'Basic unit of life (variant 8)?', the supported answer is 'Cell'.",Cell
+Q0157,Q0157_E2,Biology Reference Notes,The key concept related to 'Basic unit of life (variant 8)?' should be checked carefully against authoritative instructional material.,Cell
+Q0157,Q0157_E3,Biology Misconception Watchlist,A common misconception for 'Basic unit of life (variant 8)?' is choosing 'Atom' incorrectly.,Cell
+Q0158,Q0158_E1,Biology Essentials,"For the question 'Photosynthesis mainly occurs in (variant 8)?', the supported answer is 'Chloroplast'.",Chloroplast
+Q0158,Q0158_E2,Biology Reference Notes,The key concept related to 'Photosynthesis mainly occurs in (variant 8)?' should be checked carefully against authoritative instructional material.,Chloroplast
+Q0158,Q0158_E3,Biology Misconception Watchlist,A common misconception for 'Photosynthesis mainly occurs in (variant 8)?' is choosing 'Mitochondria' incorrectly.,Chloroplast
+Q0159,Q0159_E1,Biology Essentials,"For the question 'Which molecule carries genetic information (variant 8)?', the supported answer is 'DNA'.",DNA
+Q0159,Q0159_E2,Biology Reference Notes,The key concept related to 'Which molecule carries genetic information (variant 8)?' should be checked carefully against authoritative instructional material.,DNA
+Q0159,Q0159_E3,Biology Misconception Watchlist,A common misconception for 'Which molecule carries genetic information (variant 8)?' is choosing 'Protein' incorrectly.,DNA
+Q0160,Q0160_E1,Biology Essentials,"For the question 'Humans typically have how many chromosomes (variant 8)?', the supported answer is '46'.",46
+Q0160,Q0160_E2,Biology Reference Notes,The key concept related to 'Humans typically have how many chromosomes (variant 8)?' should be checked carefully against authoritative instructional material.,46
+Q0160,Q0160_E3,Biology Misconception Watchlist,A common misconception for 'Humans typically have how many chromosomes (variant 8)?' is choosing '23' incorrectly.,46
+Q0161,Q0161_E1,History Essentials,"For the question 'Who was the first President of the United States?', the supported answer is 'George Washington'.",George Washington
+Q0161,Q0161_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States?' should be checked carefully against authoritative instructional material.,George Washington
+Q0161,Q0161_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0162,Q0162_E1,History Essentials,"For the question 'World War II ended in which year?', the supported answer is '1945'.",1945
+Q0162,Q0162_E2,History Reference Notes,The key concept related to 'World War II ended in which year?' should be checked carefully against authoritative instructional material.,1945
+Q0162,Q0162_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year?' is choosing '1943' incorrectly.,1945
+Q0163,Q0163_E1,History Essentials,"For the question 'The Renaissance began in which region?', the supported answer is 'Italy'.",Italy
+Q0163,Q0163_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region?' should be checked carefully against authoritative instructional material.,Italy
+Q0163,Q0163_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region?' is choosing 'France' incorrectly.,Italy
+Q0164,Q0164_E1,History Essentials,"For the question 'The Great Wall is associated with which country?', the supported answer is 'China'.",China
+Q0164,Q0164_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country?' should be checked carefully against authoritative instructional material.,China
+Q0164,Q0164_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country?' is choosing 'Japan' incorrectly.,China
+Q0165,Q0165_E1,History Essentials,"For the question 'The printing press is closely associated with?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0165,Q0165_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0165,Q0165_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0166,Q0166_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 2)?', the supported answer is 'George Washington'.",George Washington
+Q0166,Q0166_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 2)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0166,Q0166_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 2)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0167,Q0167_E1,History Essentials,"For the question 'World War II ended in which year (variant 2)?', the supported answer is '1945'.",1945
+Q0167,Q0167_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 2)?' should be checked carefully against authoritative instructional material.,1945
+Q0167,Q0167_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 2)?' is choosing '1943' incorrectly.,1945
+Q0168,Q0168_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 2)?', the supported answer is 'Italy'.",Italy
+Q0168,Q0168_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 2)?' should be checked carefully against authoritative instructional material.,Italy
+Q0168,Q0168_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 2)?' is choosing 'France' incorrectly.,Italy
+Q0169,Q0169_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 2)?', the supported answer is 'China'.",China
+Q0169,Q0169_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 2)?' should be checked carefully against authoritative instructional material.,China
+Q0169,Q0169_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 2)?' is choosing 'Japan' incorrectly.,China
+Q0170,Q0170_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 2)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0170,Q0170_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 2)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0170,Q0170_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 2)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0171,Q0171_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 3)?', the supported answer is 'George Washington'.",George Washington
+Q0171,Q0171_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 3)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0171,Q0171_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 3)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0172,Q0172_E1,History Essentials,"For the question 'World War II ended in which year (variant 3)?', the supported answer is '1945'.",1945
+Q0172,Q0172_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 3)?' should be checked carefully against authoritative instructional material.,1945
+Q0172,Q0172_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 3)?' is choosing '1943' incorrectly.,1945
+Q0173,Q0173_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 3)?', the supported answer is 'Italy'.",Italy
+Q0173,Q0173_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 3)?' should be checked carefully against authoritative instructional material.,Italy
+Q0173,Q0173_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 3)?' is choosing 'France' incorrectly.,Italy
+Q0174,Q0174_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 3)?', the supported answer is 'China'.",China
+Q0174,Q0174_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 3)?' should be checked carefully against authoritative instructional material.,China
+Q0174,Q0174_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 3)?' is choosing 'Japan' incorrectly.,China
+Q0175,Q0175_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 3)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0175,Q0175_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 3)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0175,Q0175_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 3)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0176,Q0176_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 4)?', the supported answer is 'George Washington'.",George Washington
+Q0176,Q0176_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 4)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0176,Q0176_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 4)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0177,Q0177_E1,History Essentials,"For the question 'World War II ended in which year (variant 4)?', the supported answer is '1945'.",1945
+Q0177,Q0177_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 4)?' should be checked carefully against authoritative instructional material.,1945
+Q0177,Q0177_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 4)?' is choosing '1943' incorrectly.,1945
+Q0178,Q0178_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 4)?', the supported answer is 'Italy'.",Italy
+Q0178,Q0178_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 4)?' should be checked carefully against authoritative instructional material.,Italy
+Q0178,Q0178_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 4)?' is choosing 'France' incorrectly.,Italy
+Q0179,Q0179_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 4)?', the supported answer is 'China'.",China
+Q0179,Q0179_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 4)?' should be checked carefully against authoritative instructional material.,China
+Q0179,Q0179_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 4)?' is choosing 'Japan' incorrectly.,China
+Q0180,Q0180_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 4)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0180,Q0180_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 4)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0180,Q0180_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 4)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0181,Q0181_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 5)?', the supported answer is 'George Washington'.",George Washington
+Q0181,Q0181_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 5)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0181,Q0181_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 5)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0182,Q0182_E1,History Essentials,"For the question 'World War II ended in which year (variant 5)?', the supported answer is '1945'.",1945
+Q0182,Q0182_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 5)?' should be checked carefully against authoritative instructional material.,1945
+Q0182,Q0182_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 5)?' is choosing '1943' incorrectly.,1945
+Q0183,Q0183_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 5)?', the supported answer is 'Italy'.",Italy
+Q0183,Q0183_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 5)?' should be checked carefully against authoritative instructional material.,Italy
+Q0183,Q0183_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 5)?' is choosing 'France' incorrectly.,Italy
+Q0184,Q0184_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 5)?', the supported answer is 'China'.",China
+Q0184,Q0184_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 5)?' should be checked carefully against authoritative instructional material.,China
+Q0184,Q0184_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 5)?' is choosing 'Japan' incorrectly.,China
+Q0185,Q0185_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 5)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0185,Q0185_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 5)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0185,Q0185_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 5)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0186,Q0186_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 6)?', the supported answer is 'George Washington'.",George Washington
+Q0186,Q0186_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 6)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0186,Q0186_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 6)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0187,Q0187_E1,History Essentials,"For the question 'World War II ended in which year (variant 6)?', the supported answer is '1945'.",1945
+Q0187,Q0187_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 6)?' should be checked carefully against authoritative instructional material.,1945
+Q0187,Q0187_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 6)?' is choosing '1943' incorrectly.,1945
+Q0188,Q0188_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 6)?', the supported answer is 'Italy'.",Italy
+Q0188,Q0188_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 6)?' should be checked carefully against authoritative instructional material.,Italy
+Q0188,Q0188_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 6)?' is choosing 'France' incorrectly.,Italy
+Q0189,Q0189_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 6)?', the supported answer is 'China'.",China
+Q0189,Q0189_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 6)?' should be checked carefully against authoritative instructional material.,China
+Q0189,Q0189_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 6)?' is choosing 'Japan' incorrectly.,China
+Q0190,Q0190_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 6)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0190,Q0190_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 6)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0190,Q0190_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 6)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0191,Q0191_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 7)?', the supported answer is 'George Washington'.",George Washington
+Q0191,Q0191_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 7)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0191,Q0191_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 7)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0192,Q0192_E1,History Essentials,"For the question 'World War II ended in which year (variant 7)?', the supported answer is '1945'.",1945
+Q0192,Q0192_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 7)?' should be checked carefully against authoritative instructional material.,1945
+Q0192,Q0192_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 7)?' is choosing '1943' incorrectly.,1945
+Q0193,Q0193_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 7)?', the supported answer is 'Italy'.",Italy
+Q0193,Q0193_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 7)?' should be checked carefully against authoritative instructional material.,Italy
+Q0193,Q0193_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 7)?' is choosing 'France' incorrectly.,Italy
+Q0194,Q0194_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 7)?', the supported answer is 'China'.",China
+Q0194,Q0194_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 7)?' should be checked carefully against authoritative instructional material.,China
+Q0194,Q0194_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 7)?' is choosing 'Japan' incorrectly.,China
+Q0195,Q0195_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 7)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0195,Q0195_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 7)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0195,Q0195_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 7)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0196,Q0196_E1,History Essentials,"For the question 'Who was the first President of the United States (variant 8)?', the supported answer is 'George Washington'.",George Washington
+Q0196,Q0196_E2,History Reference Notes,The key concept related to 'Who was the first President of the United States (variant 8)?' should be checked carefully against authoritative instructional material.,George Washington
+Q0196,Q0196_E3,History Misconception Watchlist,A common misconception for 'Who was the first President of the United States (variant 8)?' is choosing 'Thomas Jefferson' incorrectly.,George Washington
+Q0197,Q0197_E1,History Essentials,"For the question 'World War II ended in which year (variant 8)?', the supported answer is '1945'.",1945
+Q0197,Q0197_E2,History Reference Notes,The key concept related to 'World War II ended in which year (variant 8)?' should be checked carefully against authoritative instructional material.,1945
+Q0197,Q0197_E3,History Misconception Watchlist,A common misconception for 'World War II ended in which year (variant 8)?' is choosing '1943' incorrectly.,1945
+Q0198,Q0198_E1,History Essentials,"For the question 'The Renaissance began in which region (variant 8)?', the supported answer is 'Italy'.",Italy
+Q0198,Q0198_E2,History Reference Notes,The key concept related to 'The Renaissance began in which region (variant 8)?' should be checked carefully against authoritative instructional material.,Italy
+Q0198,Q0198_E3,History Misconception Watchlist,A common misconception for 'The Renaissance began in which region (variant 8)?' is choosing 'France' incorrectly.,Italy
+Q0199,Q0199_E1,History Essentials,"For the question 'The Great Wall is associated with which country (variant 8)?', the supported answer is 'China'.",China
+Q0199,Q0199_E2,History Reference Notes,The key concept related to 'The Great Wall is associated with which country (variant 8)?' should be checked carefully against authoritative instructional material.,China
+Q0199,Q0199_E3,History Misconception Watchlist,A common misconception for 'The Great Wall is associated with which country (variant 8)?' is choosing 'Japan' incorrectly.,China
+Q0200,Q0200_E1,History Essentials,"For the question 'The printing press is closely associated with (variant 8)?', the supported answer is 'Gutenberg'.",Gutenberg
+Q0200,Q0200_E2,History Reference Notes,The key concept related to 'The printing press is closely associated with (variant 8)?' should be checked carefully against authoritative instructional material.,Gutenberg
+Q0200,Q0200_E3,History Misconception Watchlist,A common misconception for 'The printing press is closely associated with (variant 8)?' is choosing 'Newton' incorrectly.,Gutenberg
+Q0201,Q0201_E1,Geography Essentials,"For the question 'Largest ocean on Earth?', the supported answer is 'Pacific'.",Pacific
+Q0201,Q0201_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth?' should be checked carefully against authoritative instructional material.,Pacific
+Q0201,Q0201_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0202,Q0202_E1,Geography Essentials,"For the question 'Capital of Canada?', the supported answer is 'Ottawa'.",Ottawa
+Q0202,Q0202_E2,Geography Reference Notes,The key concept related to 'Capital of Canada?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0202,Q0202_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0203,Q0203_E1,Geography Essentials,"For the question 'The Nile flows into which sea?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0203,Q0203_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0203,Q0203_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0204,Q0204_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range?', the supported answer is 'Himalayas'.",Himalayas
+Q0204,Q0204_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0204,Q0204_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range?' is choosing 'Andes' incorrectly.,Himalayas
+Q0205,Q0205_E1,Geography Essentials,"For the question 'Sahara is a?', the supported answer is 'Desert'.",Desert
+Q0205,Q0205_E2,Geography Reference Notes,The key concept related to 'Sahara is a?' should be checked carefully against authoritative instructional material.,Desert
+Q0205,Q0205_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a?' is choosing 'Forest' incorrectly.,Desert
+Q0206,Q0206_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 2)?', the supported answer is 'Pacific'.",Pacific
+Q0206,Q0206_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 2)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0206,Q0206_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 2)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0207,Q0207_E1,Geography Essentials,"For the question 'Capital of Canada (variant 2)?', the supported answer is 'Ottawa'.",Ottawa
+Q0207,Q0207_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 2)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0207,Q0207_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 2)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0208,Q0208_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 2)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0208,Q0208_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 2)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0208,Q0208_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 2)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0209,Q0209_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 2)?', the supported answer is 'Himalayas'.",Himalayas
+Q0209,Q0209_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 2)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0209,Q0209_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 2)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0210,Q0210_E1,Geography Essentials,"For the question 'Sahara is a (variant 2)?', the supported answer is 'Desert'.",Desert
+Q0210,Q0210_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 2)?' should be checked carefully against authoritative instructional material.,Desert
+Q0210,Q0210_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 2)?' is choosing 'Forest' incorrectly.,Desert
+Q0211,Q0211_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 3)?', the supported answer is 'Pacific'.",Pacific
+Q0211,Q0211_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 3)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0211,Q0211_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 3)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0212,Q0212_E1,Geography Essentials,"For the question 'Capital of Canada (variant 3)?', the supported answer is 'Ottawa'.",Ottawa
+Q0212,Q0212_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 3)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0212,Q0212_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 3)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0213,Q0213_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 3)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0213,Q0213_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 3)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0213,Q0213_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 3)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0214,Q0214_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 3)?', the supported answer is 'Himalayas'.",Himalayas
+Q0214,Q0214_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 3)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0214,Q0214_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 3)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0215,Q0215_E1,Geography Essentials,"For the question 'Sahara is a (variant 3)?', the supported answer is 'Desert'.",Desert
+Q0215,Q0215_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 3)?' should be checked carefully against authoritative instructional material.,Desert
+Q0215,Q0215_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 3)?' is choosing 'Forest' incorrectly.,Desert
+Q0216,Q0216_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 4)?', the supported answer is 'Pacific'.",Pacific
+Q0216,Q0216_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 4)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0216,Q0216_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 4)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0217,Q0217_E1,Geography Essentials,"For the question 'Capital of Canada (variant 4)?', the supported answer is 'Ottawa'.",Ottawa
+Q0217,Q0217_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 4)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0217,Q0217_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 4)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0218,Q0218_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 4)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0218,Q0218_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 4)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0218,Q0218_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 4)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0219,Q0219_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 4)?', the supported answer is 'Himalayas'.",Himalayas
+Q0219,Q0219_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 4)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0219,Q0219_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 4)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0220,Q0220_E1,Geography Essentials,"For the question 'Sahara is a (variant 4)?', the supported answer is 'Desert'.",Desert
+Q0220,Q0220_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 4)?' should be checked carefully against authoritative instructional material.,Desert
+Q0220,Q0220_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 4)?' is choosing 'Forest' incorrectly.,Desert
+Q0221,Q0221_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 5)?', the supported answer is 'Pacific'.",Pacific
+Q0221,Q0221_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 5)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0221,Q0221_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 5)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0222,Q0222_E1,Geography Essentials,"For the question 'Capital of Canada (variant 5)?', the supported answer is 'Ottawa'.",Ottawa
+Q0222,Q0222_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 5)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0222,Q0222_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 5)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0223,Q0223_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 5)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0223,Q0223_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 5)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0223,Q0223_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 5)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0224,Q0224_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 5)?', the supported answer is 'Himalayas'.",Himalayas
+Q0224,Q0224_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 5)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0224,Q0224_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 5)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0225,Q0225_E1,Geography Essentials,"For the question 'Sahara is a (variant 5)?', the supported answer is 'Desert'.",Desert
+Q0225,Q0225_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 5)?' should be checked carefully against authoritative instructional material.,Desert
+Q0225,Q0225_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 5)?' is choosing 'Forest' incorrectly.,Desert
+Q0226,Q0226_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 6)?', the supported answer is 'Pacific'.",Pacific
+Q0226,Q0226_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 6)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0226,Q0226_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 6)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0227,Q0227_E1,Geography Essentials,"For the question 'Capital of Canada (variant 6)?', the supported answer is 'Ottawa'.",Ottawa
+Q0227,Q0227_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 6)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0227,Q0227_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 6)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0228,Q0228_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 6)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0228,Q0228_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 6)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0228,Q0228_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 6)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0229,Q0229_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 6)?', the supported answer is 'Himalayas'.",Himalayas
+Q0229,Q0229_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 6)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0229,Q0229_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 6)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0230,Q0230_E1,Geography Essentials,"For the question 'Sahara is a (variant 6)?', the supported answer is 'Desert'.",Desert
+Q0230,Q0230_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 6)?' should be checked carefully against authoritative instructional material.,Desert
+Q0230,Q0230_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 6)?' is choosing 'Forest' incorrectly.,Desert
+Q0231,Q0231_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 7)?', the supported answer is 'Pacific'.",Pacific
+Q0231,Q0231_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 7)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0231,Q0231_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 7)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0232,Q0232_E1,Geography Essentials,"For the question 'Capital of Canada (variant 7)?', the supported answer is 'Ottawa'.",Ottawa
+Q0232,Q0232_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 7)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0232,Q0232_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 7)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0233,Q0233_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 7)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0233,Q0233_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 7)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0233,Q0233_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 7)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0234,Q0234_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 7)?', the supported answer is 'Himalayas'.",Himalayas
+Q0234,Q0234_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 7)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0234,Q0234_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 7)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0235,Q0235_E1,Geography Essentials,"For the question 'Sahara is a (variant 7)?', the supported answer is 'Desert'.",Desert
+Q0235,Q0235_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 7)?' should be checked carefully against authoritative instructional material.,Desert
+Q0235,Q0235_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 7)?' is choosing 'Forest' incorrectly.,Desert
+Q0236,Q0236_E1,Geography Essentials,"For the question 'Largest ocean on Earth (variant 8)?', the supported answer is 'Pacific'.",Pacific
+Q0236,Q0236_E2,Geography Reference Notes,The key concept related to 'Largest ocean on Earth (variant 8)?' should be checked carefully against authoritative instructional material.,Pacific
+Q0236,Q0236_E3,Geography Misconception Watchlist,A common misconception for 'Largest ocean on Earth (variant 8)?' is choosing 'Atlantic' incorrectly.,Pacific
+Q0237,Q0237_E1,Geography Essentials,"For the question 'Capital of Canada (variant 8)?', the supported answer is 'Ottawa'.",Ottawa
+Q0237,Q0237_E2,Geography Reference Notes,The key concept related to 'Capital of Canada (variant 8)?' should be checked carefully against authoritative instructional material.,Ottawa
+Q0237,Q0237_E3,Geography Misconception Watchlist,A common misconception for 'Capital of Canada (variant 8)?' is choosing 'Toronto' incorrectly.,Ottawa
+Q0238,Q0238_E1,Geography Essentials,"For the question 'The Nile flows into which sea (variant 8)?', the supported answer is 'Mediterranean Sea'.",Mediterranean Sea
+Q0238,Q0238_E2,Geography Reference Notes,The key concept related to 'The Nile flows into which sea (variant 8)?' should be checked carefully against authoritative instructional material.,Mediterranean Sea
+Q0238,Q0238_E3,Geography Misconception Watchlist,A common misconception for 'The Nile flows into which sea (variant 8)?' is choosing 'Red Sea' incorrectly.,Mediterranean Sea
+Q0239,Q0239_E1,Geography Essentials,"For the question 'Mount Everest lies in which mountain range (variant 8)?', the supported answer is 'Himalayas'.",Himalayas
+Q0239,Q0239_E2,Geography Reference Notes,The key concept related to 'Mount Everest lies in which mountain range (variant 8)?' should be checked carefully against authoritative instructional material.,Himalayas
+Q0239,Q0239_E3,Geography Misconception Watchlist,A common misconception for 'Mount Everest lies in which mountain range (variant 8)?' is choosing 'Andes' incorrectly.,Himalayas
+Q0240,Q0240_E1,Geography Essentials,"For the question 'Sahara is a (variant 8)?', the supported answer is 'Desert'.",Desert
+Q0240,Q0240_E2,Geography Reference Notes,The key concept related to 'Sahara is a (variant 8)?' should be checked carefully against authoritative instructional material.,Desert
+Q0240,Q0240_E3,Geography Misconception Watchlist,A common misconception for 'Sahara is a (variant 8)?' is choosing 'Forest' incorrectly.,Desert
+Q0241,Q0241_E1,Computer_Science Essentials,"For the question 'CPU stands for?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0241,Q0241_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0241,Q0241_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0242,Q0242_E1,Computer_Science Essentials,"For the question 'Binary uses which digits?', the supported answer is '0 and 1'.",0 and 1
+Q0242,Q0242_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0242,Q0242_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0243,Q0243_E1,Computer_Science Essentials,"For the question 'What does RAM stand for?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0243,Q0243_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0243,Q0243_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0244,Q0244_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for?', the supported answer is 'Web communication'.",Web communication
+Q0244,Q0244_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for?' should be checked carefully against authoritative instructional material.,Web communication
+Q0244,Q0244_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for?' is choosing 'Database design' incorrectly.,Web communication
+Q0245,Q0245_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO?', the supported answer is 'Queue'.",Queue
+Q0245,Q0245_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO?' should be checked carefully against authoritative instructional material.,Queue
+Q0245,Q0245_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO?' is choosing 'Stack' incorrectly.,Queue
+Q0246,Q0246_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 2)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0246,Q0246_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 2)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0246,Q0246_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 2)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0247,Q0247_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 2)?', the supported answer is '0 and 1'.",0 and 1
+Q0247,Q0247_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 2)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0247,Q0247_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 2)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0248,Q0248_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 2)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0248,Q0248_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 2)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0248,Q0248_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 2)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0249,Q0249_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 2)?', the supported answer is 'Web communication'.",Web communication
+Q0249,Q0249_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 2)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0249,Q0249_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 2)?' is choosing 'Database design' incorrectly.,Web communication
+Q0250,Q0250_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 2)?', the supported answer is 'Queue'.",Queue
+Q0250,Q0250_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 2)?' should be checked carefully against authoritative instructional material.,Queue
+Q0250,Q0250_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 2)?' is choosing 'Stack' incorrectly.,Queue
+Q0251,Q0251_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 3)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0251,Q0251_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 3)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0251,Q0251_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 3)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0252,Q0252_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 3)?', the supported answer is '0 and 1'.",0 and 1
+Q0252,Q0252_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 3)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0252,Q0252_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 3)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0253,Q0253_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 3)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0253,Q0253_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 3)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0253,Q0253_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 3)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0254,Q0254_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 3)?', the supported answer is 'Web communication'.",Web communication
+Q0254,Q0254_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 3)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0254,Q0254_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 3)?' is choosing 'Database design' incorrectly.,Web communication
+Q0255,Q0255_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 3)?', the supported answer is 'Queue'.",Queue
+Q0255,Q0255_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 3)?' should be checked carefully against authoritative instructional material.,Queue
+Q0255,Q0255_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 3)?' is choosing 'Stack' incorrectly.,Queue
+Q0256,Q0256_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 4)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0256,Q0256_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 4)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0256,Q0256_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 4)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0257,Q0257_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 4)?', the supported answer is '0 and 1'.",0 and 1
+Q0257,Q0257_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 4)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0257,Q0257_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 4)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0258,Q0258_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 4)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0258,Q0258_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 4)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0258,Q0258_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 4)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0259,Q0259_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 4)?', the supported answer is 'Web communication'.",Web communication
+Q0259,Q0259_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 4)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0259,Q0259_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 4)?' is choosing 'Database design' incorrectly.,Web communication
+Q0260,Q0260_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 4)?', the supported answer is 'Queue'.",Queue
+Q0260,Q0260_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 4)?' should be checked carefully against authoritative instructional material.,Queue
+Q0260,Q0260_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 4)?' is choosing 'Stack' incorrectly.,Queue
+Q0261,Q0261_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 5)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0261,Q0261_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 5)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0261,Q0261_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 5)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0262,Q0262_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 5)?', the supported answer is '0 and 1'.",0 and 1
+Q0262,Q0262_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 5)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0262,Q0262_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 5)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0263,Q0263_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 5)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0263,Q0263_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 5)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0263,Q0263_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 5)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0264,Q0264_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 5)?', the supported answer is 'Web communication'.",Web communication
+Q0264,Q0264_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 5)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0264,Q0264_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 5)?' is choosing 'Database design' incorrectly.,Web communication
+Q0265,Q0265_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 5)?', the supported answer is 'Queue'.",Queue
+Q0265,Q0265_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 5)?' should be checked carefully against authoritative instructional material.,Queue
+Q0265,Q0265_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 5)?' is choosing 'Stack' incorrectly.,Queue
+Q0266,Q0266_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 6)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0266,Q0266_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 6)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0266,Q0266_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 6)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0267,Q0267_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 6)?', the supported answer is '0 and 1'.",0 and 1
+Q0267,Q0267_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 6)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0267,Q0267_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 6)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0268,Q0268_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 6)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0268,Q0268_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 6)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0268,Q0268_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 6)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0269,Q0269_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 6)?', the supported answer is 'Web communication'.",Web communication
+Q0269,Q0269_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 6)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0269,Q0269_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 6)?' is choosing 'Database design' incorrectly.,Web communication
+Q0270,Q0270_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 6)?', the supported answer is 'Queue'.",Queue
+Q0270,Q0270_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 6)?' should be checked carefully against authoritative instructional material.,Queue
+Q0270,Q0270_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 6)?' is choosing 'Stack' incorrectly.,Queue
+Q0271,Q0271_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 7)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0271,Q0271_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 7)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0271,Q0271_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 7)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0272,Q0272_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 7)?', the supported answer is '0 and 1'.",0 and 1
+Q0272,Q0272_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 7)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0272,Q0272_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 7)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0273,Q0273_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 7)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0273,Q0273_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 7)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0273,Q0273_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 7)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0274,Q0274_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 7)?', the supported answer is 'Web communication'.",Web communication
+Q0274,Q0274_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 7)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0274,Q0274_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 7)?' is choosing 'Database design' incorrectly.,Web communication
+Q0275,Q0275_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 7)?', the supported answer is 'Queue'.",Queue
+Q0275,Q0275_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 7)?' should be checked carefully against authoritative instructional material.,Queue
+Q0275,Q0275_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 7)?' is choosing 'Stack' incorrectly.,Queue
+Q0276,Q0276_E1,Computer_Science Essentials,"For the question 'CPU stands for (variant 8)?', the supported answer is 'Central Processing Unit'.",Central Processing Unit
+Q0276,Q0276_E2,Computer_Science Reference Notes,The key concept related to 'CPU stands for (variant 8)?' should be checked carefully against authoritative instructional material.,Central Processing Unit
+Q0276,Q0276_E3,Computer_Science Misconception Watchlist,A common misconception for 'CPU stands for (variant 8)?' is choosing 'Computer Primary Unit' incorrectly.,Central Processing Unit
+Q0277,Q0277_E1,Computer_Science Essentials,"For the question 'Binary uses which digits (variant 8)?', the supported answer is '0 and 1'.",0 and 1
+Q0277,Q0277_E2,Computer_Science Reference Notes,The key concept related to 'Binary uses which digits (variant 8)?' should be checked carefully against authoritative instructional material.,0 and 1
+Q0277,Q0277_E3,Computer_Science Misconception Watchlist,A common misconception for 'Binary uses which digits (variant 8)?' is choosing '1 and 2' incorrectly.,0 and 1
+Q0278,Q0278_E1,Computer_Science Essentials,"For the question 'What does RAM stand for (variant 8)?', the supported answer is 'Random Access Memory'.",Random Access Memory
+Q0278,Q0278_E2,Computer_Science Reference Notes,The key concept related to 'What does RAM stand for (variant 8)?' should be checked carefully against authoritative instructional material.,Random Access Memory
+Q0278,Q0278_E3,Computer_Science Misconception Watchlist,A common misconception for 'What does RAM stand for (variant 8)?' is choosing 'Read Access Memory' incorrectly.,Random Access Memory
+Q0279,Q0279_E1,Computer_Science Essentials,"For the question 'HTTP is primarily used for (variant 8)?', the supported answer is 'Web communication'.",Web communication
+Q0279,Q0279_E2,Computer_Science Reference Notes,The key concept related to 'HTTP is primarily used for (variant 8)?' should be checked carefully against authoritative instructional material.,Web communication
+Q0279,Q0279_E3,Computer_Science Misconception Watchlist,A common misconception for 'HTTP is primarily used for (variant 8)?' is choosing 'Database design' incorrectly.,Web communication
+Q0280,Q0280_E1,Computer_Science Essentials,"For the question 'Which data structure follows FIFO (variant 8)?', the supported answer is 'Queue'.",Queue
+Q0280,Q0280_E2,Computer_Science Reference Notes,The key concept related to 'Which data structure follows FIFO (variant 8)?' should be checked carefully against authoritative instructional material.,Queue
+Q0280,Q0280_E3,Computer_Science Misconception Watchlist,A common misconception for 'Which data structure follows FIFO (variant 8)?' is choosing 'Stack' incorrectly.,Queue
+Q0281,Q0281_E1,General_Science Essentials,"For the question 'Earth revolves around the?', the supported answer is 'Sun'.",Sun
+Q0281,Q0281_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the?' should be checked carefully against authoritative instructional material.,Sun
+Q0281,Q0281_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the?' is choosing 'Moon' incorrectly.,Sun
+Q0282,Q0282_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level?', the supported answer is '100°C'.",100°C
+Q0282,Q0282_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level?' should be checked carefully against authoritative instructional material.,100°C
+Q0282,Q0282_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level?' is choosing '90°C' incorrectly.,100°C
+Q0283,Q0283_E1,General_Science Essentials,"For the question 'Humans breathe in?', the supported answer is 'Oxygen'.",Oxygen
+Q0283,Q0283_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0283,Q0283_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0284,Q0284_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet?', the supported answer is 'Mars'.",Mars
+Q0284,Q0284_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet?' should be checked carefully against authoritative instructional material.,Mars
+Q0284,Q0284_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet?' is choosing 'Venus' incorrectly.,Mars
+Q0285,Q0285_E1,General_Science Essentials,"For the question 'The process of plants making food is?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0285,Q0285_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0285,Q0285_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0286,Q0286_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 2)?', the supported answer is 'Sun'.",Sun
+Q0286,Q0286_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 2)?' should be checked carefully against authoritative instructional material.,Sun
+Q0286,Q0286_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 2)?' is choosing 'Moon' incorrectly.,Sun
+Q0287,Q0287_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 2)?', the supported answer is '100°C'.",100°C
+Q0287,Q0287_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 2)?' should be checked carefully against authoritative instructional material.,100°C
+Q0287,Q0287_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 2)?' is choosing '90°C' incorrectly.,100°C
+Q0288,Q0288_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 2)?', the supported answer is 'Oxygen'.",Oxygen
+Q0288,Q0288_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 2)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0288,Q0288_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 2)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0289,Q0289_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 2)?', the supported answer is 'Mars'.",Mars
+Q0289,Q0289_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 2)?' should be checked carefully against authoritative instructional material.,Mars
+Q0289,Q0289_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 2)?' is choosing 'Venus' incorrectly.,Mars
+Q0290,Q0290_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 2)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0290,Q0290_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 2)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0290,Q0290_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 2)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0291,Q0291_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 3)?', the supported answer is 'Sun'.",Sun
+Q0291,Q0291_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 3)?' should be checked carefully against authoritative instructional material.,Sun
+Q0291,Q0291_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 3)?' is choosing 'Moon' incorrectly.,Sun
+Q0292,Q0292_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 3)?', the supported answer is '100°C'.",100°C
+Q0292,Q0292_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 3)?' should be checked carefully against authoritative instructional material.,100°C
+Q0292,Q0292_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 3)?' is choosing '90°C' incorrectly.,100°C
+Q0293,Q0293_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 3)?', the supported answer is 'Oxygen'.",Oxygen
+Q0293,Q0293_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 3)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0293,Q0293_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 3)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0294,Q0294_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 3)?', the supported answer is 'Mars'.",Mars
+Q0294,Q0294_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 3)?' should be checked carefully against authoritative instructional material.,Mars
+Q0294,Q0294_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 3)?' is choosing 'Venus' incorrectly.,Mars
+Q0295,Q0295_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 3)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0295,Q0295_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 3)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0295,Q0295_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 3)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0296,Q0296_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 4)?', the supported answer is 'Sun'.",Sun
+Q0296,Q0296_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 4)?' should be checked carefully against authoritative instructional material.,Sun
+Q0296,Q0296_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 4)?' is choosing 'Moon' incorrectly.,Sun
+Q0297,Q0297_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 4)?', the supported answer is '100°C'.",100°C
+Q0297,Q0297_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 4)?' should be checked carefully against authoritative instructional material.,100°C
+Q0297,Q0297_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 4)?' is choosing '90°C' incorrectly.,100°C
+Q0298,Q0298_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 4)?', the supported answer is 'Oxygen'.",Oxygen
+Q0298,Q0298_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 4)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0298,Q0298_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 4)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0299,Q0299_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 4)?', the supported answer is 'Mars'.",Mars
+Q0299,Q0299_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 4)?' should be checked carefully against authoritative instructional material.,Mars
+Q0299,Q0299_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 4)?' is choosing 'Venus' incorrectly.,Mars
+Q0300,Q0300_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 4)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0300,Q0300_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 4)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0300,Q0300_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 4)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0301,Q0301_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 5)?', the supported answer is 'Sun'.",Sun
+Q0301,Q0301_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 5)?' should be checked carefully against authoritative instructional material.,Sun
+Q0301,Q0301_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 5)?' is choosing 'Moon' incorrectly.,Sun
+Q0302,Q0302_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 5)?', the supported answer is '100°C'.",100°C
+Q0302,Q0302_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 5)?' should be checked carefully against authoritative instructional material.,100°C
+Q0302,Q0302_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 5)?' is choosing '90°C' incorrectly.,100°C
+Q0303,Q0303_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 5)?', the supported answer is 'Oxygen'.",Oxygen
+Q0303,Q0303_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 5)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0303,Q0303_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 5)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0304,Q0304_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 5)?', the supported answer is 'Mars'.",Mars
+Q0304,Q0304_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 5)?' should be checked carefully against authoritative instructional material.,Mars
+Q0304,Q0304_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 5)?' is choosing 'Venus' incorrectly.,Mars
+Q0305,Q0305_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 5)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0305,Q0305_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 5)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0305,Q0305_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 5)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0306,Q0306_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 6)?', the supported answer is 'Sun'.",Sun
+Q0306,Q0306_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 6)?' should be checked carefully against authoritative instructional material.,Sun
+Q0306,Q0306_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 6)?' is choosing 'Moon' incorrectly.,Sun
+Q0307,Q0307_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 6)?', the supported answer is '100°C'.",100°C
+Q0307,Q0307_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 6)?' should be checked carefully against authoritative instructional material.,100°C
+Q0307,Q0307_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 6)?' is choosing '90°C' incorrectly.,100°C
+Q0308,Q0308_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 6)?', the supported answer is 'Oxygen'.",Oxygen
+Q0308,Q0308_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 6)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0308,Q0308_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 6)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0309,Q0309_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 6)?', the supported answer is 'Mars'.",Mars
+Q0309,Q0309_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 6)?' should be checked carefully against authoritative instructional material.,Mars
+Q0309,Q0309_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 6)?' is choosing 'Venus' incorrectly.,Mars
+Q0310,Q0310_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 6)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0310,Q0310_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 6)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0310,Q0310_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 6)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0311,Q0311_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 7)?', the supported answer is 'Sun'.",Sun
+Q0311,Q0311_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 7)?' should be checked carefully against authoritative instructional material.,Sun
+Q0311,Q0311_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 7)?' is choosing 'Moon' incorrectly.,Sun
+Q0312,Q0312_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 7)?', the supported answer is '100°C'.",100°C
+Q0312,Q0312_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 7)?' should be checked carefully against authoritative instructional material.,100°C
+Q0312,Q0312_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 7)?' is choosing '90°C' incorrectly.,100°C
+Q0313,Q0313_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 7)?', the supported answer is 'Oxygen'.",Oxygen
+Q0313,Q0313_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 7)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0313,Q0313_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 7)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0314,Q0314_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 7)?', the supported answer is 'Mars'.",Mars
+Q0314,Q0314_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 7)?' should be checked carefully against authoritative instructional material.,Mars
+Q0314,Q0314_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 7)?' is choosing 'Venus' incorrectly.,Mars
+Q0315,Q0315_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 7)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0315,Q0315_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 7)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0315,Q0315_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 7)?' is choosing 'Respiration' incorrectly.,Photosynthesis
+Q0316,Q0316_E1,General_Science Essentials,"For the question 'Earth revolves around the (variant 8)?', the supported answer is 'Sun'.",Sun
+Q0316,Q0316_E2,General_Science Reference Notes,The key concept related to 'Earth revolves around the (variant 8)?' should be checked carefully against authoritative instructional material.,Sun
+Q0316,Q0316_E3,General_Science Misconception Watchlist,A common misconception for 'Earth revolves around the (variant 8)?' is choosing 'Moon' incorrectly.,Sun
+Q0317,Q0317_E1,General_Science Essentials,"For the question 'Boiling point of water at sea level (variant 8)?', the supported answer is '100°C'.",100°C
+Q0317,Q0317_E2,General_Science Reference Notes,The key concept related to 'Boiling point of water at sea level (variant 8)?' should be checked carefully against authoritative instructional material.,100°C
+Q0317,Q0317_E3,General_Science Misconception Watchlist,A common misconception for 'Boiling point of water at sea level (variant 8)?' is choosing '90°C' incorrectly.,100°C
+Q0318,Q0318_E1,General_Science Essentials,"For the question 'Humans breathe in (variant 8)?', the supported answer is 'Oxygen'.",Oxygen
+Q0318,Q0318_E2,General_Science Reference Notes,The key concept related to 'Humans breathe in (variant 8)?' should be checked carefully against authoritative instructional material.,Oxygen
+Q0318,Q0318_E3,General_Science Misconception Watchlist,A common misconception for 'Humans breathe in (variant 8)?' is choosing 'Nitrogen' incorrectly.,Oxygen
+Q0319,Q0319_E1,General_Science Essentials,"For the question 'Which planet is known as the Red Planet (variant 8)?', the supported answer is 'Mars'.",Mars
+Q0319,Q0319_E2,General_Science Reference Notes,The key concept related to 'Which planet is known as the Red Planet (variant 8)?' should be checked carefully against authoritative instructional material.,Mars
+Q0319,Q0319_E3,General_Science Misconception Watchlist,A common misconception for 'Which planet is known as the Red Planet (variant 8)?' is choosing 'Venus' incorrectly.,Mars
+Q0320,Q0320_E1,General_Science Essentials,"For the question 'The process of plants making food is (variant 8)?', the supported answer is 'Photosynthesis'.",Photosynthesis
+Q0320,Q0320_E2,General_Science Reference Notes,The key concept related to 'The process of plants making food is (variant 8)?' should be checked carefully against authoritative instructional material.,Photosynthesis
+Q0320,Q0320_E3,General_Science Misconception Watchlist,A common misconception for 'The process of plants making food is (variant 8)?' is choosing 'Respiration' incorrectly.,Photosynthesis

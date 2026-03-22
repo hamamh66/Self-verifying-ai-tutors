@@ -1,0 +1,321 @@
+item_id,subject,question,options,answer,difficulty,source_type
+Q0001,mathematics,What is the derivative of x^2?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0002,mathematics,What is the integral of 1/x?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0003,mathematics,"If f(x)=3x+2, what is f(4)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0004,mathematics,What is the value of sin(pi/2)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0005,mathematics,What is the solution to 2x+3=11?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0006,mathematics,What is the derivative of x^2 (variant 2)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0007,mathematics,What is the integral of 1/x (variant 2)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0008,mathematics,"If f(x)=3x+2, what is f(4) (variant 2)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0009,mathematics,What is the value of sin(pi/2) (variant 2)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0010,mathematics,What is the solution to 2x+3=11 (variant 2)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0011,mathematics,What is the derivative of x^2 (variant 3)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0012,mathematics,What is the integral of 1/x (variant 3)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0013,mathematics,"If f(x)=3x+2, what is f(4) (variant 3)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0014,mathematics,What is the value of sin(pi/2) (variant 3)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0015,mathematics,What is the solution to 2x+3=11 (variant 3)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0016,mathematics,What is the derivative of x^2 (variant 4)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0017,mathematics,What is the integral of 1/x (variant 4)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0018,mathematics,"If f(x)=3x+2, what is f(4) (variant 4)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0019,mathematics,What is the value of sin(pi/2) (variant 4)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0020,mathematics,What is the solution to 2x+3=11 (variant 4)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0021,mathematics,What is the derivative of x^2 (variant 5)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0022,mathematics,What is the integral of 1/x (variant 5)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0023,mathematics,"If f(x)=3x+2, what is f(4) (variant 5)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0024,mathematics,What is the value of sin(pi/2) (variant 5)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0025,mathematics,What is the solution to 2x+3=11 (variant 5)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0026,mathematics,What is the derivative of x^2 (variant 6)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0027,mathematics,What is the integral of 1/x (variant 6)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0028,mathematics,"If f(x)=3x+2, what is f(4) (variant 6)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0029,mathematics,What is the value of sin(pi/2) (variant 6)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0030,mathematics,What is the solution to 2x+3=11 (variant 6)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0031,mathematics,What is the derivative of x^2 (variant 7)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0032,mathematics,What is the integral of 1/x (variant 7)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0033,mathematics,"If f(x)=3x+2, what is f(4) (variant 7)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0034,mathematics,What is the value of sin(pi/2) (variant 7)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0035,mathematics,What is the solution to 2x+3=11 (variant 7)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0036,mathematics,What is the derivative of x^2 (variant 8)?,"['2x', 'x', 'x^2', '1']",2x,easy,curated_seed
+Q0037,mathematics,What is the integral of 1/x (variant 8)?,"['ln|x| + C', 'x + C', '1/x + C', 'e^x + C']",ln|x| + C,medium,curated_seed
+Q0038,mathematics,"If f(x)=3x+2, what is f(4) (variant 8)?","['10', '12', '14', '16']",14,easy,curated_seed
+Q0039,mathematics,What is the value of sin(pi/2) (variant 8)?,"['0', '1', '-1', '1/2']",1,easy,curated_seed
+Q0040,mathematics,What is the solution to 2x+3=11 (variant 8)?,"['2', '3', '4', '5']",4,easy,curated_seed
+Q0041,physics,What is the SI unit of force?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0042,physics,What is the speed of light in vacuum?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0043,physics,Ohm's law is expressed as?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0044,physics,Which quantity is conserved in an isolated system?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0045,physics,Unit of electric current?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0046,physics,What is the SI unit of force (variant 2)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0047,physics,What is the speed of light in vacuum (variant 2)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0048,physics,Ohm's law is expressed as (variant 2)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0049,physics,Which quantity is conserved in an isolated system (variant 2)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0050,physics,Unit of electric current (variant 2)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0051,physics,What is the SI unit of force (variant 3)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0052,physics,What is the speed of light in vacuum (variant 3)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0053,physics,Ohm's law is expressed as (variant 3)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0054,physics,Which quantity is conserved in an isolated system (variant 3)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0055,physics,Unit of electric current (variant 3)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0056,physics,What is the SI unit of force (variant 4)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0057,physics,What is the speed of light in vacuum (variant 4)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0058,physics,Ohm's law is expressed as (variant 4)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0059,physics,Which quantity is conserved in an isolated system (variant 4)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0060,physics,Unit of electric current (variant 4)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0061,physics,What is the SI unit of force (variant 5)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0062,physics,What is the speed of light in vacuum (variant 5)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0063,physics,Ohm's law is expressed as (variant 5)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0064,physics,Which quantity is conserved in an isolated system (variant 5)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0065,physics,Unit of electric current (variant 5)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0066,physics,What is the SI unit of force (variant 6)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0067,physics,What is the speed of light in vacuum (variant 6)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0068,physics,Ohm's law is expressed as (variant 6)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0069,physics,Which quantity is conserved in an isolated system (variant 6)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0070,physics,Unit of electric current (variant 6)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0071,physics,What is the SI unit of force (variant 7)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0072,physics,What is the speed of light in vacuum (variant 7)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0073,physics,Ohm's law is expressed as (variant 7)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0074,physics,Which quantity is conserved in an isolated system (variant 7)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0075,physics,Unit of electric current (variant 7)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0076,physics,What is the SI unit of force (variant 8)?,"['Joule', 'Newton', 'Pascal', 'Watt']",Newton,easy,curated_seed
+Q0077,physics,What is the speed of light in vacuum (variant 8)?,"['3×10^8 m/s', '3×10^6 m/s', '1.5×10^8 m/s', '9.8 m/s^2']",3×10^8 m/s,easy,curated_seed
+Q0078,physics,Ohm's law is expressed as (variant 8)?,"['P=IV', 'V=IR', 'F=ma', 'E=mc^2']",V=IR,easy,curated_seed
+Q0079,physics,Which quantity is conserved in an isolated system (variant 8)?,"['Mass-energy', 'Voltage', 'Resistance', 'Temperature']",Mass-energy,medium,curated_seed
+Q0080,physics,Unit of electric current (variant 8)?,"['Volt', 'Ampere', 'Ohm', 'Tesla']",Ampere,easy,curated_seed
+Q0081,chemistry,Atomic number of oxygen?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0082,chemistry,pH less than 7 indicates?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0083,chemistry,Chemical symbol for sodium?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0084,chemistry,Water is composed of which elements?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0085,chemistry,Avogadro's number is approximately?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0086,chemistry,Atomic number of oxygen (variant 2)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0087,chemistry,pH less than 7 indicates (variant 2)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0088,chemistry,Chemical symbol for sodium (variant 2)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0089,chemistry,Water is composed of which elements (variant 2)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0090,chemistry,Avogadro's number is approximately (variant 2)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0091,chemistry,Atomic number of oxygen (variant 3)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0092,chemistry,pH less than 7 indicates (variant 3)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0093,chemistry,Chemical symbol for sodium (variant 3)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0094,chemistry,Water is composed of which elements (variant 3)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0095,chemistry,Avogadro's number is approximately (variant 3)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0096,chemistry,Atomic number of oxygen (variant 4)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0097,chemistry,pH less than 7 indicates (variant 4)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0098,chemistry,Chemical symbol for sodium (variant 4)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0099,chemistry,Water is composed of which elements (variant 4)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0100,chemistry,Avogadro's number is approximately (variant 4)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0101,chemistry,Atomic number of oxygen (variant 5)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0102,chemistry,pH less than 7 indicates (variant 5)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0103,chemistry,Chemical symbol for sodium (variant 5)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0104,chemistry,Water is composed of which elements (variant 5)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0105,chemistry,Avogadro's number is approximately (variant 5)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0106,chemistry,Atomic number of oxygen (variant 6)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0107,chemistry,pH less than 7 indicates (variant 6)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0108,chemistry,Chemical symbol for sodium (variant 6)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0109,chemistry,Water is composed of which elements (variant 6)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0110,chemistry,Avogadro's number is approximately (variant 6)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0111,chemistry,Atomic number of oxygen (variant 7)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0112,chemistry,pH less than 7 indicates (variant 7)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0113,chemistry,Chemical symbol for sodium (variant 7)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0114,chemistry,Water is composed of which elements (variant 7)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0115,chemistry,Avogadro's number is approximately (variant 7)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0116,chemistry,Atomic number of oxygen (variant 8)?,"['6', '7', '8', '10']",8,easy,curated_seed
+Q0117,chemistry,pH less than 7 indicates (variant 8)?,"['Base', 'Neutral', 'Acid', 'Salt']",Acid,easy,curated_seed
+Q0118,chemistry,Chemical symbol for sodium (variant 8)?,"['So', 'Sd', 'Na', 'S']",Na,easy,curated_seed
+Q0119,chemistry,Water is composed of which elements (variant 8)?,"['Hydrogen and oxygen', 'Hydrogen and nitrogen', 'Oxygen and carbon', 'Carbon and hydrogen']",Hydrogen and oxygen,easy,curated_seed
+Q0120,chemistry,Avogadro's number is approximately (variant 8)?,"['6.02×10^23', '3×10^8', '9.81', '1.6×10^-19']",6.02×10^23,challenge,curated_seed
+Q0121,biology,DNA stands for?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0122,biology,Basic unit of life?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0123,biology,Photosynthesis mainly occurs in?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0124,biology,Which molecule carries genetic information?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0125,biology,Humans typically have how many chromosomes?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0126,biology,DNA stands for (variant 2)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0127,biology,Basic unit of life (variant 2)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0128,biology,Photosynthesis mainly occurs in (variant 2)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0129,biology,Which molecule carries genetic information (variant 2)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0130,biology,Humans typically have how many chromosomes (variant 2)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0131,biology,DNA stands for (variant 3)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0132,biology,Basic unit of life (variant 3)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0133,biology,Photosynthesis mainly occurs in (variant 3)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0134,biology,Which molecule carries genetic information (variant 3)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0135,biology,Humans typically have how many chromosomes (variant 3)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0136,biology,DNA stands for (variant 4)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0137,biology,Basic unit of life (variant 4)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0138,biology,Photosynthesis mainly occurs in (variant 4)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0139,biology,Which molecule carries genetic information (variant 4)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0140,biology,Humans typically have how many chromosomes (variant 4)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0141,biology,DNA stands for (variant 5)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0142,biology,Basic unit of life (variant 5)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0143,biology,Photosynthesis mainly occurs in (variant 5)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0144,biology,Which molecule carries genetic information (variant 5)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0145,biology,Humans typically have how many chromosomes (variant 5)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0146,biology,DNA stands for (variant 6)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0147,biology,Basic unit of life (variant 6)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0148,biology,Photosynthesis mainly occurs in (variant 6)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0149,biology,Which molecule carries genetic information (variant 6)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0150,biology,Humans typically have how many chromosomes (variant 6)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0151,biology,DNA stands for (variant 7)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0152,biology,Basic unit of life (variant 7)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0153,biology,Photosynthesis mainly occurs in (variant 7)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0154,biology,Which molecule carries genetic information (variant 7)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0155,biology,Humans typically have how many chromosomes (variant 7)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0156,biology,DNA stands for (variant 8)?,"['Deoxyribonucleic acid', 'Dynamic nucleic acid', 'Double nitrogen acid', 'None']",Deoxyribonucleic acid,easy,curated_seed
+Q0157,biology,Basic unit of life (variant 8)?,"['Atom', 'Cell', 'Organ', 'Tissue']",Cell,easy,curated_seed
+Q0158,biology,Photosynthesis mainly occurs in (variant 8)?,"['Mitochondria', 'Nucleus', 'Chloroplast', 'Ribosome']",Chloroplast,easy,curated_seed
+Q0159,biology,Which molecule carries genetic information (variant 8)?,"['Protein', 'DNA', 'Glucose', 'ATP']",DNA,easy,curated_seed
+Q0160,biology,Humans typically have how many chromosomes (variant 8)?,"['23', '46', '44', '48']",46,medium,curated_seed
+Q0161,history,Who was the first President of the United States?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0162,history,World War II ended in which year?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0163,history,The Renaissance began in which region?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0164,history,The Great Wall is associated with which country?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0165,history,The printing press is closely associated with?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0166,history,Who was the first President of the United States (variant 2)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0167,history,World War II ended in which year (variant 2)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0168,history,The Renaissance began in which region (variant 2)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0169,history,The Great Wall is associated with which country (variant 2)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0170,history,The printing press is closely associated with (variant 2)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0171,history,Who was the first President of the United States (variant 3)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0172,history,World War II ended in which year (variant 3)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0173,history,The Renaissance began in which region (variant 3)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0174,history,The Great Wall is associated with which country (variant 3)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0175,history,The printing press is closely associated with (variant 3)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0176,history,Who was the first President of the United States (variant 4)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0177,history,World War II ended in which year (variant 4)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0178,history,The Renaissance began in which region (variant 4)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0179,history,The Great Wall is associated with which country (variant 4)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0180,history,The printing press is closely associated with (variant 4)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0181,history,Who was the first President of the United States (variant 5)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0182,history,World War II ended in which year (variant 5)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0183,history,The Renaissance began in which region (variant 5)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0184,history,The Great Wall is associated with which country (variant 5)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0185,history,The printing press is closely associated with (variant 5)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0186,history,Who was the first President of the United States (variant 6)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0187,history,World War II ended in which year (variant 6)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0188,history,The Renaissance began in which region (variant 6)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0189,history,The Great Wall is associated with which country (variant 6)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0190,history,The printing press is closely associated with (variant 6)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0191,history,Who was the first President of the United States (variant 7)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0192,history,World War II ended in which year (variant 7)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0193,history,The Renaissance began in which region (variant 7)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0194,history,The Great Wall is associated with which country (variant 7)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0195,history,The printing press is closely associated with (variant 7)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0196,history,Who was the first President of the United States (variant 8)?,"['George Washington', 'Thomas Jefferson', 'Abraham Lincoln', 'John Adams']",George Washington,easy,curated_seed
+Q0197,history,World War II ended in which year (variant 8)?,"['1943', '1944', '1945', '1946']",1945,easy,curated_seed
+Q0198,history,The Renaissance began in which region (variant 8)?,"['France', 'Italy', 'Germany', 'Spain']",Italy,medium,curated_seed
+Q0199,history,The Great Wall is associated with which country (variant 8)?,"['Japan', 'India', 'China', 'Korea']",China,easy,curated_seed
+Q0200,history,The printing press is closely associated with (variant 8)?,"['Newton', 'Gutenberg', 'Galileo', 'Edison']",Gutenberg,easy,curated_seed
+Q0201,geography,Largest ocean on Earth?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0202,geography,Capital of Canada?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0203,geography,The Nile flows into which sea?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0204,geography,Mount Everest lies in which mountain range?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0205,geography,Sahara is a?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0206,geography,Largest ocean on Earth (variant 2)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0207,geography,Capital of Canada (variant 2)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0208,geography,The Nile flows into which sea (variant 2)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0209,geography,Mount Everest lies in which mountain range (variant 2)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0210,geography,Sahara is a (variant 2)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0211,geography,Largest ocean on Earth (variant 3)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0212,geography,Capital of Canada (variant 3)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0213,geography,The Nile flows into which sea (variant 3)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0214,geography,Mount Everest lies in which mountain range (variant 3)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0215,geography,Sahara is a (variant 3)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0216,geography,Largest ocean on Earth (variant 4)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0217,geography,Capital of Canada (variant 4)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0218,geography,The Nile flows into which sea (variant 4)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0219,geography,Mount Everest lies in which mountain range (variant 4)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0220,geography,Sahara is a (variant 4)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0221,geography,Largest ocean on Earth (variant 5)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0222,geography,Capital of Canada (variant 5)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0223,geography,The Nile flows into which sea (variant 5)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0224,geography,Mount Everest lies in which mountain range (variant 5)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0225,geography,Sahara is a (variant 5)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0226,geography,Largest ocean on Earth (variant 6)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0227,geography,Capital of Canada (variant 6)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0228,geography,The Nile flows into which sea (variant 6)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0229,geography,Mount Everest lies in which mountain range (variant 6)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0230,geography,Sahara is a (variant 6)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0231,geography,Largest ocean on Earth (variant 7)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0232,geography,Capital of Canada (variant 7)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0233,geography,The Nile flows into which sea (variant 7)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0234,geography,Mount Everest lies in which mountain range (variant 7)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0235,geography,Sahara is a (variant 7)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0236,geography,Largest ocean on Earth (variant 8)?,"['Atlantic', 'Indian', 'Pacific', 'Arctic']",Pacific,easy,curated_seed
+Q0237,geography,Capital of Canada (variant 8)?,"['Toronto', 'Ottawa', 'Montreal', 'Vancouver']",Ottawa,easy,curated_seed
+Q0238,geography,The Nile flows into which sea (variant 8)?,"['Red Sea', 'Arabian Sea', 'Mediterranean Sea', 'Black Sea']",Mediterranean Sea,medium,curated_seed
+Q0239,geography,Mount Everest lies in which mountain range (variant 8)?,"['Andes', 'Alps', 'Himalayas', 'Rockies']",Himalayas,easy,curated_seed
+Q0240,geography,Sahara is a (variant 8)?,"['Forest', 'Desert', 'River', 'Mountain']",Desert,easy,curated_seed
+Q0241,computer_science,CPU stands for?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0242,computer_science,Binary uses which digits?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0243,computer_science,What does RAM stand for?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0244,computer_science,HTTP is primarily used for?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0245,computer_science,Which data structure follows FIFO?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0246,computer_science,CPU stands for (variant 2)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0247,computer_science,Binary uses which digits (variant 2)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0248,computer_science,What does RAM stand for (variant 2)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0249,computer_science,HTTP is primarily used for (variant 2)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0250,computer_science,Which data structure follows FIFO (variant 2)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0251,computer_science,CPU stands for (variant 3)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0252,computer_science,Binary uses which digits (variant 3)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0253,computer_science,What does RAM stand for (variant 3)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0254,computer_science,HTTP is primarily used for (variant 3)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0255,computer_science,Which data structure follows FIFO (variant 3)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0256,computer_science,CPU stands for (variant 4)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0257,computer_science,Binary uses which digits (variant 4)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0258,computer_science,What does RAM stand for (variant 4)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0259,computer_science,HTTP is primarily used for (variant 4)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0260,computer_science,Which data structure follows FIFO (variant 4)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0261,computer_science,CPU stands for (variant 5)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0262,computer_science,Binary uses which digits (variant 5)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0263,computer_science,What does RAM stand for (variant 5)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0264,computer_science,HTTP is primarily used for (variant 5)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0265,computer_science,Which data structure follows FIFO (variant 5)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0266,computer_science,CPU stands for (variant 6)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0267,computer_science,Binary uses which digits (variant 6)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0268,computer_science,What does RAM stand for (variant 6)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0269,computer_science,HTTP is primarily used for (variant 6)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0270,computer_science,Which data structure follows FIFO (variant 6)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0271,computer_science,CPU stands for (variant 7)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0272,computer_science,Binary uses which digits (variant 7)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0273,computer_science,What does RAM stand for (variant 7)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0274,computer_science,HTTP is primarily used for (variant 7)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0275,computer_science,Which data structure follows FIFO (variant 7)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0276,computer_science,CPU stands for (variant 8)?,"['Central Processing Unit', 'Computer Primary Unit', 'Central Program Utility', 'Control Processing Unit']",Central Processing Unit,easy,curated_seed
+Q0277,computer_science,Binary uses which digits (variant 8)?,"['0 and 1', '1 and 2', '0 to 9', 'A and B']",0 and 1,easy,curated_seed
+Q0278,computer_science,What does RAM stand for (variant 8)?,"['Read Access Memory', 'Random Access Memory', 'Run Active Memory', 'Rapid Allocation Module']",Random Access Memory,easy,curated_seed
+Q0279,computer_science,HTTP is primarily used for (variant 8)?,"['Database design', 'Web communication', 'Image editing', 'Operating systems']",Web communication,easy,curated_seed
+Q0280,computer_science,Which data structure follows FIFO (variant 8)?,"['Stack', 'Queue', 'Tree', 'Graph']",Queue,medium,curated_seed
+Q0281,general_science,Earth revolves around the?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0282,general_science,Boiling point of water at sea level?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0283,general_science,Humans breathe in?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0284,general_science,Which planet is known as the Red Planet?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0285,general_science,The process of plants making food is?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0286,general_science,Earth revolves around the (variant 2)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0287,general_science,Boiling point of water at sea level (variant 2)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0288,general_science,Humans breathe in (variant 2)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0289,general_science,Which planet is known as the Red Planet (variant 2)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0290,general_science,The process of plants making food is (variant 2)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0291,general_science,Earth revolves around the (variant 3)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0292,general_science,Boiling point of water at sea level (variant 3)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0293,general_science,Humans breathe in (variant 3)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0294,general_science,Which planet is known as the Red Planet (variant 3)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0295,general_science,The process of plants making food is (variant 3)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0296,general_science,Earth revolves around the (variant 4)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0297,general_science,Boiling point of water at sea level (variant 4)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0298,general_science,Humans breathe in (variant 4)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0299,general_science,Which planet is known as the Red Planet (variant 4)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0300,general_science,The process of plants making food is (variant 4)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0301,general_science,Earth revolves around the (variant 5)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0302,general_science,Boiling point of water at sea level (variant 5)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0303,general_science,Humans breathe in (variant 5)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0304,general_science,Which planet is known as the Red Planet (variant 5)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0305,general_science,The process of plants making food is (variant 5)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0306,general_science,Earth revolves around the (variant 6)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0307,general_science,Boiling point of water at sea level (variant 6)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0308,general_science,Humans breathe in (variant 6)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0309,general_science,Which planet is known as the Red Planet (variant 6)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0310,general_science,The process of plants making food is (variant 6)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0311,general_science,Earth revolves around the (variant 7)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0312,general_science,Boiling point of water at sea level (variant 7)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0313,general_science,Humans breathe in (variant 7)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0314,general_science,Which planet is known as the Red Planet (variant 7)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0315,general_science,The process of plants making food is (variant 7)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
+Q0316,general_science,Earth revolves around the (variant 8)?,"['Moon', 'Mars', 'Sun', 'Jupiter']",Sun,easy,curated_seed
+Q0317,general_science,Boiling point of water at sea level (variant 8)?,"['90°C', '95°C', '100°C', '110°C']",100°C,easy,curated_seed
+Q0318,general_science,Humans breathe in (variant 8)?,"['Nitrogen', 'Carbon dioxide', 'Oxygen', 'Helium']",Oxygen,easy,curated_seed
+Q0319,general_science,Which planet is known as the Red Planet (variant 8)?,"['Venus', 'Mars', 'Saturn', 'Mercury']",Mars,easy,curated_seed
+Q0320,general_science,The process of plants making food is (variant 8)?,"['Respiration', 'Photosynthesis', 'Digestion', 'Transpiration']",Photosynthesis,easy,curated_seed
